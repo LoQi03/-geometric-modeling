@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GLApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GLApp.cpp
+D:\OpenGL\Homework\GLApp\GLApp.cpp(61,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(82,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(101,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(102,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(103,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(194,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(195,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(199,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(200,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(202,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpenGL\Homework\GLApp\GLApp.cpp(203,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLApp.vcxproj -> D:\OpenGL\Homework\x64\Debug\HomeWork.exe
